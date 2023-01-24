@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(252, 236, 216);
+}
+
+.button-10 {
+    height: 20px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 2px;
+}
+
+.top-text-10 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
